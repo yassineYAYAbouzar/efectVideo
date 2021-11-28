@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197425253112",
+    "project_id": "youkids-71004",
+    "storage_bucket": "youkids-71004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197425253112:android:48f89a123bf364d825090d",
+        "android_client_info": {
+          "package_name": "com.box.ecomerce.ecomerceflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197425253112-mfj96v9a7417l9mm82tnv6r3j8g8pk69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.box.ecomerce.ecomerceflutter",
+            "certificate_hash": "38512f382bf549fd341495d5bb4ea50ee2081557"
+          }
+        },
+        {
+          "client_id": "197425253112-rb95k35leo8cubqglt5mjk3g8vptlc27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChP4xKhrYaJXK2QVCpRjwXmjxm5r0tgAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197425253112-rb95k35leo8cubqglt5mjk3g8vptlc27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
